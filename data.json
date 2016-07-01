@@ -1,0 +1,27 @@
+{
+    "widget": [{
+        "id": 1,
+        "name": "widget 1",
+        "type": "type 1"
+    }, {
+        "id": 2,
+        "name": "widget 2",
+        "type": "type 2"
+    }, {
+        "id": 3,
+        "name": "widget 3",
+        "type": "type 3"
+    }, {
+        "id": 4,
+        "name": "widget 4",
+        "type": "type 4"
+    }, {
+        "id": 5,
+        "name": "widget 5",
+        "type": "type 5"
+    }, {
+        "id": 6,
+        "name": "widget 6",
+        "type": "type 6"
+    }]
+}

@@ -1,0 +1,13 @@
+header {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+#widget-content {
+	margin-top: 50px;
+}
+
+#edit-widget  {
+	margin-top: 30px;
+}
